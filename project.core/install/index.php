@@ -7,7 +7,7 @@ use Bitrix\Main\SystemException;
 
 Loc::loadMessages(__FILE__);
 
-class taxcom_core extends CModule
+class project_core extends CModule
 {
     public function __construct()
     {

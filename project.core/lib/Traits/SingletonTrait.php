@@ -1,6 +1,6 @@
 <?php
 
-namespace Taxcom\Core\Traits;
+namespace Project\Core\Traits;
 
 trait SingletonTrait
 {
